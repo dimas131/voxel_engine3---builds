@@ -12,7 +12,11 @@
 7. TAB - toogle cursor
 8. F1 - save game
 9. F2 - load game
-10. NUMBERS 1-4 - choose bloks
-11. NUMPAD ADD(+) - increase speed
-12. NUMPAD SUBTRACT(-) - decrease speed
-13. LEFT CONTROL(CTRL) - speed up
+10. F3 - map enlargement
+11. F4 - reload Chunk
+12. F5 - fogDepth decrease
+13. F6 - fogDepth increase
+14. NUMBERS 1-9 - choose bloks
+15. NUMPAD ADD(+) - increase speed
+16. NUMPAD SUBTRACT(-) - decrease speed
+17. LEFT CONTROL(CTRL) - speed up
