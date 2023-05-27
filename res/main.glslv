@@ -29,7 +29,7 @@ void main(){
 	a_color = vec4(pow(light, vec3(u_gamma)),1.0f);
 	//a_color = vec4(1.0f,1.0f,1.0f,1.0f);
 	a_texCoord = v_texCoord;
-	//a_color.rgb += u_skyLightColor;
+	a_color.rgb += u_skyLightColor;
 	a_distance = pow(length(viewmodelpos), u_fogDepth);
 	gl_Position = u_proj * viewmodelpos;
 }
